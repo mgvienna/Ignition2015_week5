@@ -31,20 +31,14 @@ Diving deeper in the MVC aspects of Rails
     1. Create a new Rails workspace on C9
     1. Add `/.c9` to your `.gitignore` file
     1. Setup git and commit the project:
-       
-       ``` bash
-git init
-git add .  
-git commit -m 'initial commit'  
-       ```
+      1. git init
+      2. git add .  
+      3. git commit -m 'initial commit'  
     1. Create a new repo on GitHub without a `README` or `.gitignore`
     1. Add your remote and push to github (replace the `<username>` and `<repo>` with your username and repo name)
-    
-       ``` bash
-git remote add origin https://github.com/<username>/<repo>.git  
-git push -u origin master
-       ```
-  1. As a group, complete the Rails tutorial [Chapter 5](https://www.railstutorial.org/book/filling_in_the_layout#top). Make sure to trade off coding, one person should not write everything.  
+      1. git remote add origin https://github.com/<username>/<repo>.git
+      2. git push -u origin master
+1. As a group, complete the Rails tutorial [Chapter 5](https://www.railstutorial.org/book/filling_in_the_layout#top). Make sure to trade off coding, one person should not write everything.  
 
 #### Optional
 - Read the [Rails Guide on Routing](http://guides.rubyonrails.org/routing.html)
