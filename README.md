@@ -26,7 +26,7 @@ Diving deeper in the MVC aspects of Rails
   1. How do you pass a local variable to a partial?
   1. What's the magical Rails shortcut for rendering a User? A bunch of Users?
   1. What are asset tags and why are they used?
-1. By yourself, complete the [Odin Project: Basic Routes, Views and Controllers](http://www.theodinproject.com/ruby-on-rails/basic-routes-views-and-controllers)
+1. (By Monday 3/9) By yourself, complete the [Odin Project: Basic Routes, Views and Controllers](http://www.theodinproject.com/ruby-on-rails/basic-routes-views-and-controllers)
   1. Skip step 1 of the Application Skeleton section.  As we did last week, you will:
     1. Create a new Rails workspace on C9
     1. Add `/.c9` to your `.gitignore` file
@@ -38,7 +38,7 @@ Diving deeper in the MVC aspects of Rails
     1. Add your remote and push to github (replace the `<username>` and `<repo>` with your username and repo name)
       1. `git remote add origin https://github.com/<username>/<repo>.git`
       2. `git push -u origin master`
-1. As a group, complete the Rails tutorial [Chapter 5](https://www.railstutorial.org/book/filling_in_the_layout#top). Make sure to trade off coding, one person should not write everything.  
+1. (By Thursday 3/12) As a group, complete the Rails tutorial [Chapter 5](https://www.railstutorial.org/book/filling_in_the_layout#top). Make sure to trade off coding, one person should not write everything.  
   1. Pick up where you left on your week 4 assignment with your new partner.  One person should be new to the codebase, one should have been working on it the previous week.
 
 #### Optional
