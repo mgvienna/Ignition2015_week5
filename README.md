@@ -39,6 +39,7 @@ Diving deeper in the MVC aspects of Rails
       1. `git remote add origin https://github.com/<username>/<repo>.git`
       2. `git push -u origin master`
 1. As a group, complete the Rails tutorial [Chapter 5](https://www.railstutorial.org/book/filling_in_the_layout#top). Make sure to trade off coding, one person should not write everything.  
+  1. Pick up where you left on your week 4 assignment with your new partner
 
 #### Optional
 - Read the [Rails Guide on Routing](http://guides.rubyonrails.org/routing.html)
