@@ -12,4 +12,5 @@
   - View: Small amount of work to display content correctly.  No processing or calculations.
   - Model: All code that relates to your data and handling saving, updating, or summarizing that data.
 - Development best practices<br>
+  - We need SMART Models, THIN Controllers, and DUMB Views.
 ![mvc cake](http://slash7.com/assets/2007/2/12/layercake.png)
