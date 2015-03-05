@@ -6,3 +6,4 @@
 - Submitting week 5 assignments
   - no deliverables folder, just deliverable.md
 - Why MVC?
+- Development best practices
