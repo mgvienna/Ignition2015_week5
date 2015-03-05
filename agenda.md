@@ -8,4 +8,5 @@
   - soft deadline to have Odin project work done by Monday
   - hard deadline to have Odin project and RailsTutorial Chapter 5 done by Thursday
 - Why MVC?
-- Development best practices
+- Development best practices<br>
+![mvc cake](http://slash7.com/assets/2007/2/12/layercake.png)
