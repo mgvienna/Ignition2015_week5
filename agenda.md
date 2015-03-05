@@ -5,5 +5,7 @@
 - New partners for this week
 - Submitting week 5 assignments
   - no deliverables folder, just deliverable.md
+  - soft deadline to have Odin project work done by Monday
+  - hard deadline to have Odin project and RailsTutorial Chapter 5 done by Thursday
 - Why MVC?
 - Development best practices
