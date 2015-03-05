@@ -1,43 +1,43 @@
-#### Team 1
-Nolawee Mengist
+<b>Team 1</b>  
+Nolawee Mengist  
 Ian Sharp
 
-#### Team 2
-Kalani Kayser
+<b>Team 2</b>  
+Kalani Kayser  
 Brook Hernandez
 
-#### Team 3
-Christian Kelley
+<b>Team 3</b>  
+Christian Kelley  
 Alexander Maru
 
-#### Team 4
-Gigi Weihe
+<b>Team 4</b>  
+Gigi Weihe  
 Marco Vienna
 
-#### Team 5
-Victor Rojas
+<b>Team 5</b>  
+Victor Rojas  
 Jake Hurwitz
 
-#### Team 6
-Jack Policar
+<b>Team 6</b>  
+Jack Policar  
 Chloe Wolf
 
-#### Team 7
-Christian Dean
+<b>Team 7</b>  
+Christian Dean  
 Bryony Patience
 
-#### Team 8
-Jamie Finney
+<b>Team 8</b>  
+Jamie Finney  
 Kelsey Ledbetter
 
-#### Team 9
-Aidan Gold
+<b>Team 9</b>  
+Aidan Gold  
 Harrison Wood
 
-#### Team 10
-Simon Rupp-Greene
+<b>Team 10</b>  
+Simon Rupp-Greene  
 Nick White
 
-#### Team 11
-Alexandra Weiner
+<b>Team 11</b>  
+Alexandra Weiner  
 Erin Connolly
