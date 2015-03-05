@@ -7,7 +7,7 @@
   - no deliverables folder, just deliverable.md
   - Odin project 
     - soft deadline to have work done by Monday
-    - by yourself
+    - by yourself, pair in class with a mentor or teacher
   - RailsTutorial Chapter 5
     - hard deadline to have work donbe by Thursday
     - with your partners, pick one person's project, someone should be new
