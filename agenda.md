@@ -9,7 +9,7 @@
     - soft deadline to have work done by Monday
     - by yourself, pair in class with a mentor or teacher
   - RailsTutorial Chapter 5
-    - hard deadline to have work donbe by Thursday
+    - hard deadline to have work done by Thursday
     - with your partners, pick one person's project, someone should be new
 - MVC?
   - Controller: Logic around what the user wants, if they are logged in, if they can see something, what to show, etc.
