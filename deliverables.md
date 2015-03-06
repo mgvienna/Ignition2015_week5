@@ -1,6 +1,7 @@
 #### Deliverables for week 5 Rails MVC
 ##### Odin Project Routing Guide Questions:
-- What is the "Root" route?
+- Per: http://www.theodinproject.com/ruby-on-rails/routing
+- What is the "Root" route? Where users are deposited when they land on a URL once directing Rails which controller and and action to map that route to
 - What are the seven RESTful routes for a resource?
 - Which RESTful routes share the same URL but use different verbs?
 - How do you specify an ID or other variable in a route?
