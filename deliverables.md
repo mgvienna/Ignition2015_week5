@@ -2,10 +2,10 @@
 ##### Odin Project Routing Guide Questions:
 - Per: http://www.theodinproject.com/ruby-on-rails/routing
 - What is the "Root" route? Where users are deposited when they land on a URL once directing Rails which controller and and action to map that route to
-- What are the seven RESTful routes for a resource?
-- Which RESTful routes share the same URL but use different verbs?
-- How do you specify an ID or other variable in a route?
-- How can you easily write all seven RESTful routes in Rails?
+- What are the seven RESTful routes for a resource? GET all the posts (index), GET just one specific post (show), GET the page that lets you create a new post (new), POST the data you just filled out for a new post back to the server so it can create that post (create), GET the page that lets you edit an exisiting post (edit), PUT the data you just filled out to edit the post back to the server so it can actually perform the update (update), DELETE one specific post by sending a delete request to the server (destroy); the words in parentheses correspond to the rails controller actions
+- Which RESTful routes share the same URL but use different verbs? show, update, and destroy
+- How do you specify an ID or other variable in a route? With a colon
+- How can you easily write all seven RESTful routes in Rails? 
 - What is the Rails helper method that creates the HTML for links?
 
 ##### Odin Project Views Guide Questions:
